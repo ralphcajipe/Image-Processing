@@ -240,3 +240,9 @@ fprintf('buffalo.tif spatial resolution reduced by 96.875%% \n')
 % 100% - 3.125% = 96.875% 
 imshow(reduced_buffalo);
 %}
+
+%{
+    My conclusion
+The lab was about image processing in MATLAB. We learned how to read and write images, 
+convert images to grayscale, and reduce spatial resolution of images. 
+%}
